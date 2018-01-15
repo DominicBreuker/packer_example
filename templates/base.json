@@ -28,9 +28,5 @@
             ],
             "type": "shell"
         }
-    ],
-
-    "variables": {
-        "ami_name": "my-ubuntu-1604"
-    }
+    ]
 }
